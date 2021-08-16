@@ -1,3 +1,5 @@
+package primeirosPassosEmJava;
+
 import java.util.Scanner;
 
 public class SeisNumerosImpares {
